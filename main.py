@@ -55,7 +55,6 @@ def matchOrder():
             else:
                 break
 
-# Random order generator
 def random_order_generator():
     tickers = ["AAPL", "GOOG", "MSFT"]
     order_types = ["buy", "sell"]
